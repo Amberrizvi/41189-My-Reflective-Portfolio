@@ -26,3 +26,18 @@ From reading about some of the models mentioned in the module two post-lecture w
 
 ### What were the challenges I have encountered/observed and how well did I manage them?
 Challenges I have encountered this week involve understanding the best method of learning for myself. While trying to learn about a handful of different models, absorbing that information on face value hasn’t necessarily been useful in retaining knowledge. As the purpose of learning about the models is ultimately to find some that may be applicable for the problem I will select in the assignment, a learning method to consider as the semester continues is a brief list of notes of models with their explanation and key features to refer back to.
+
+##Week 3: 
+
+###What have I learnt this week? What do I 'now know' that I did not before?
+This week I have learnt how modelling people and their thinking processes is computed and which strategies are used to estimate them. Prior to this lesson, I had perceived modelling the complexities of people to be something that is out of reach and too difficult to complete successfully. In addition, this lesson demonstrated modelling I have already done in the past, specifically, I did not realise all of the basic theories and equations in economics I had learnt in high school were effectively modelling behavioural patterns of individuals in society. I now know these were largely rational models. 
+
+###What insights have I gained?
+As I had predicted during the first week, this subject crosses over significantly with my business Statistics subject. This week, the lecture discussed how decision trees can be used to model the process of choosing between alternatives. This ties in with binomial theory and probability trees I had done last week in Statistics. Hopefully, in coming weeks, I am able to apply this understanding of practical mathematics and probability to model the problem my group will chose for the assignment. 
+
+###What are (my/the) perceived strengths that I have observed?
+After these first three weeks, a strength I have observed is my ability to make connections between content in this subject and other subjects or information I have learnt previously. I think this strength will be useful beyond this semester at university, and something I will be able to extend about in my career. I hope honing this skill will increase the transferability of general skills and knowledge across future jobs 
+
+###What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+Last week I had noted it was challenging trying to understand the ability to transfer models across disciplines to solve different problems using the same principles. Following this week’s lecture, I believe I now have a better grasp on this idea, as I see that many of the models we have seen as of yet do not necessarily pertain to industries, for example, engineering, marketing and so on, but rather to holistic problems and ideas such as  signalling and decision making. I think engaging during the lecture through using my microphone in Zoom assisted in this specific learning process, and I anticipate it will continue to be useful to verbally interact with the class to aid my understanding of content and to have a better class experience. As a result, in coming lectures I will seek to be more active during the workshops. 
+

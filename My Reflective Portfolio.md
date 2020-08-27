@@ -58,7 +58,7 @@ As there was a lot of content to dissolve this week, a perceived weakness of min
 As stated in the lecture, this week’s topic of aggregating decisions and behaviour rooted the real-world capabilities of calculating statistical models I am encountering in other subjects. Coincidentally, this week in statistics I had learnt about sampling and sampling distributions. The video in this weeks lecture, about the central limit theorem, solidified my understanding of normal distributions and the pattern of their samples, assisting me with my homework below (namely, part 3). While I anticipate that having a greater knowledge about these specific models will hopefully benefit me and my group later as we investigate models to choose for the problem, I believe I may further complicate and confuse the application of the models. As a result, a solution to this may be looking into probability distributions that I know less of the mathematics behind, such as long tail distributions or linear models, in order for me to simplify calculations while also learning more about a wider range of models. 
 
 
-
+(iframe src="https://drive.google.com/file/d/1teORn1klZpTd3GS8PbuphGerxTp9fK52/preview" width="640" height="480"></iframe)
 
 
 

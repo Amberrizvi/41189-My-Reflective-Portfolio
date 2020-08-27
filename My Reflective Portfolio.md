@@ -66,3 +66,4 @@ The commonality and usefulness of understanding long tail distributions was some
 ### What are (my/the) perceived strengths that I have observed?
 Building off last week’s idea that video content may be an effective way to learn and get a grasp of new models, I had found a few YouTube clips to explain linear models where my understanding fell short. I believe this strength of seeking independent information to fill voids in my knowledge will be useful as the semester continues and I hope to continue to do this. 
 
+ 

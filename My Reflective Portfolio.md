@@ -51,3 +51,26 @@ The video which demonstrated how simple rules can guide Agent-Based Models (‘h
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 As there was a lot of content to dissolve this week, a perceived weakness of mine is the ability to take on knowledge as the workshops continue. A possible strategy to ensure the information is being retained is using the break times to create mind maps consolidating the previous topic. Despite this, a potential strength I have observed is now knowing which learning styles now work best for me. From the videos this week, I believe multi-media aids in my learning process and I will now consider note-taking and reviewing content in a range of different visual, verbal and written methods. 
+
+## Week 5:
+
+### What have I learnt this week?
+As stated in the lecture, this week’s topic of aggregating decisions and behaviour rooted the real-world capabilities of calculating statistical models I am encountering in other subjects. Coincidentally, this week in statistics I had learnt about sampling and sampling distributions. The video in this weeks lecture, about the central limit theorem, solidified my understanding of normal distributions and the pattern of their samples, assisting me with my homework below (namely, part 3). While I anticipate that having a greater knowledge about these specific models will hopefully benefit me and my group later as we investigate models to choose for the problem, I believe I may further complicate and confuse the application of the models. As a result, a solution to this may be looking into probability distributions that I know less of the mathematics behind, such as long tail distributions or linear models, in order for me to simplify calculations while also learning more about a wider range of models. 
+
+
+
+
+
+
+
+
+
+
+
+
+### What do I 'now know' that I did not before?
+The commonality and usefulness of understanding long tail distributions was something I had previously not considered. While companies like Ali Baba and Amazon have reaped the benefits of using these distributions, the negative implications on equity is a significant, specifically on wealth and income distributions, and how this may affect different groups of people. Personally, I would be interested in investigating long-tail distributions further and will consider this when making decisions with my group for the assignment. 
+
+### What are (my/the) perceived strengths that I have observed?
+Building off last week’s idea that video content may be an effective way to learn and get a grasp of new models, I had found a few YouTube clips to explain linear models where my understanding fell short. I believe this strength of seeking independent information to fill voids in my knowledge will be useful as the semester continues and I hope to continue to do this. 
+

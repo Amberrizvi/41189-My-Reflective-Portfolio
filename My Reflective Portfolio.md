@@ -65,4 +65,16 @@ The commonality and usefulness of understanding long tail distributions was some
 ### What are (my/the) perceived strengths that I have observed?
 Building off last week’s idea that video content may be an effective way to learn and get a grasp of new models, I had found a few YouTube clips to explain linear models where my understanding fell short. I believe this strength of seeking independent information to fill voids in my knowledge will be useful as the semester continues and I hope to continue to do this. 
 
+
+## Week 6:
+
+### What do I 'now know' that I did not before?
+From this weeks lecture, I believe I have a greater understanding of the universality of some of the models we have learnt so far. The Markov Processes and Random Walks models specifically highlighted this, as they can be applied to predict and study probability in stock markets, sports, computers and how they navigate search engines, and more. Further than that, reading the self-study section on Path Dependence can truly be applicable to all aspects of life. I believe it pertains to the philosophical question; to what extent do we and the actions we take lead our life, or rather, is it randomised and due to luck? Personally, I can see my life as completely dependent on the path of actions and decisions of my parents, their parents, and so on. While it is easy to think of events as independent, taking the economy and how it performs as a more concentrated example demonstrates how the interest earned and there the net sum in my bank account is a reflection of events and actions that have impacted the wider economy.
+
+### What insights have I gained?
+From now having a grasp on universal these models can be, I believe I have gained a better insight into how they can be applied to a wide and niche range of problems. I think this lecture presented a few more concrete yet simple examples of how the models are implemented to in real life than previous lectures, and I credit this has greatly aided my learning. I now see, for example, how the Riot model is applicable to the AirBnB business model. I hope this understanding can be transferred as my group begins to work on finding models for the problem we will chose in coming weeks.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+This week, my team has found it difficult to pick a topic for the assignment. While there are a number of interesting topic ideas, the main challenge involved the ability to find one that we are able relate to the best possible models to in order to have a report that holds substance. I believe transparent and honest communication was useful in overcoming this challenge and making the most out of our combined brainstorming. 
+
  

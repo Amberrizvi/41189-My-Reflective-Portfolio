@@ -78,3 +78,15 @@ From now having a grasp on universal these models can be, I believe I have gaine
 This week, my team has found it difficult to pick a topic for the assignment. While there are a number of interesting topic ideas, the main challenge involved the ability to find one that we are able relate to the best possible models to in order to have a report that holds substance. I believe transparent and honest communication was useful in overcoming this challenge and making the most out of our combined brainstorming. 
 
  
+## Week 7:
+
+### What insights have I gained?
+
+This week’s lecture and post-work gave me new insights into how I view individuals and how they react in the context of a larger crowd. A specific idea that stood out to me was the suggestion that ‘micro-motives do not equal macro-behaviour’, as it takes into account the cumulative impact of communities. Instances that would be interesting to apply this theory to and segregation models to to would be political elections, especially in two-party systems, and how ‘micro-motives’ can change the overall outcomes. In addition, it would be interesting to apply coordination games and standing ovation models to investigate the impact of subsidies compared to tariffs, and to track the history and future progress of ‘trade wars’ between the US and China and how this has incentivised or discouraged other countries’ foreign trade policies. This could possibly be another avenue to investigate for the upcoming the group assignment.
+This week’s models and their comments on culture as possibly a coordination game is something that I have thought may link to a book I am currently reading called Sapiens. The book details the history of homo-sapiens, and it would be fascinating to find the moment coordination occurred and which conditions fostered the creation of different cultures. While this may be out of depth for the model and for myself, I am curious if any other research has been done to investigate this, and I hope to look into it in future. 
+
+### What are (my/the) perceived strengths and challenges that I have observed?
+
+Though I have detailed this previously, I think a strength that I still uphold is curiosity and interest into these models and their applications. As stated in another week’s entry, it does motivate and challenge me to stay engaged in the subject and has been a useful strength as I begin to research for the assignment. 
+Something I anticipate will continue to be difficult in a group setting is making decisions. The challenges of an online environment and group meetings does make any form of communication slightly more difficult, and I foresee it may be hard making group decisions over Zoom and messages. Despite this, it is a learned skill and I hope as my group becomes more familiar this will improve with time.
+

@@ -1,6 +1,8 @@
 # 41189 Reflective Portfolio
 # Week 1
 
+testing
+
 ### What have I learnt this week that I did not know before? 
 My knowledge of human-centred complex systems prior to the first workshop was extremely limited and was largely reduced to confusion over the beginning terms ‘human-centred complex’. As I have very little understanding of information systems overall, being in my first year, I had thought the term referred to a specific and highly specialised part of the subject. I now realise the term rather encompasses a broad and unlimited range of interrelated parts, not particularly pertaining to the technology industry but rather to every individual. 
 

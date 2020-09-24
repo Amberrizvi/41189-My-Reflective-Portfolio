@@ -1,5 +1,5 @@
 # 41189 Reflective Portfolio
-# Week 1
+## Week 1
 
 testing
 
@@ -91,4 +91,13 @@ This week’s models and their comments on culture as possibly a coordination ga
 
 Though I have detailed this previously, I think a strength that I still uphold is curiosity and interest into these models and their applications. As stated in another week’s entry, it does motivate and challenge me to stay engaged in the subject and has been a useful strength as I begin to research for the assignment. 
 Something I anticipate will continue to be difficult in a group setting is making decisions. The challenges of an online environment and group meetings does make any form of communication slightly more difficult, and I foresee it may be hard making group decisions over Zoom and messages. Despite this, it is a learned skill and I hope as my group becomes more familiar this will improve with time.
+
+## Week 8:
+
+### What have I learnt this week?
+This week’s workshop outlined models which were probably some of the most versatile we have studied so far. Specifically in the Colonel Blotto game, I believe where this is applicable in my own life most significantly is in the context of job and scholarship applications. The game puts some sense behind the idea that it may not be the most qualified person hired or chosen, but rather those with ‘tricks’. These tricks might translate to be interpersonal skills, confidence, or even networking connections. As my group has chosen the topic of gender inequality following the pandemic, viewing women’s employment under the lens of the Blotto game also brings new insights. In researching, I had found that many women will not apply to specific jobs, in this circumstance, on the floor of the New York Stock Exchange, because they did not meet one or two of the requirements listed. In contrast, the men who do apply for the same jobs often do not meet all of the requirements, yet are still hired. This can be viewed as a ‘front’ women are ‘losing on’ because they believe they need more ‘resources’ in order to win the ‘battle’. Evidently, I think an understanding of this strategy game will be useful in my career, specifically if applied to the current job market. 
+Another insight I gained from this week’s workshop was being able to view things through the lens of the cooperation game, prisoners dilemma. One of the video’s we had watched mentioned their application in trade deals and nuclear arms creating. Observing the US/China trade war as a prisoner’s dilemma highlights a political game with no real winners, but the losers being consumers in both countries. Reflecting on all models we have studied so far, it seems applying and testing different models before implementing government policies would be highly beneficial for rewarding outcomes.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+I think a personal challenge was establishing the Git extension for Jupyterlab before the deadline on Friday of week 9. While it was a small technical problem, it was crucial for the assignment and a necessary learning curve. Moving forward, I hope to rely on the help of my team members a bit more at times far before the due date in an effort to iron out problems earlier. Despite this, now that it is set up, I believe it will be a useful tool not only in this subject but throughout university, therefore I hope I continue to hone my skills.
 

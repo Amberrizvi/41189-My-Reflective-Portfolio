@@ -101,3 +101,18 @@ Another insight I gained from this week’s workshop was being able to view thin
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 I think a personal challenge was establishing the Git extension for Jupyterlab before the deadline on Friday of week 9. While it was a small technical problem, it was crucial for the assignment and a necessary learning curve. Moving forward, I hope to rely on the help of my team members a bit more at times far before the due date in an effort to iron out problems earlier. Despite this, now that it is set up, I believe it will be a useful tool not only in this subject but throughout university, therefore I hope I continue to hone my skills.
 
+## Week 9
+
+### What insights have I gained?
+
+I believe a major insight I have gained from reading the submissions of other groups is the importance of the ‘describe any data sources necessary’ section of the report. I believe as my group completed our own report, I had seen this section as fairly insignificant and only necessary to list the information we will need to find when creating the models. After reviewing other teams’ submissions, I now understand the usefulness of this section to assist planning the inputs and their weighting when models are constructed.  Investigating more into this part of the submission can only result in a greater understanding of how each model works and can provide insight into how the results of each model can come together to suggest more useful conclusions than they may have suggested alone. This is because I anticipate similar inputs into each model will reveal different aspects and require different solutions. Therefore, I hope my team can rework this section, or at least include the observations that result from its research, in the final submission to strengthen our understanding and the overall report.
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+I think a particular challenge my team encountered was ensuring the report sounded and read like one document, as opposed to multiple sections written by different people. While this was the case during the earlier drafting stages, we overcame the challenge by everyone cross editing each other’s sections and using our group calls to collate our knowledge. I believe this was quite effective and allowed us to learn from each other. 
+
+### What would I do better next time and with what anticipated results?
+
+By the next submission I hope I have furthered my Jupyter and Python skills so that the report is of high quality and I can make the most of this subject. Though I have discussed my expectation that Python will be extremely useful in university and my career previously in this reflection journal, it is becoming more evident to me as I continue with the subject. This is mainly because I am seeing how it can be applied to other aspects of my degree, specifically with statistics, more and more. 
+
+

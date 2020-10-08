@@ -115,4 +115,17 @@ I think a particular challenge my team encountered was ensuring the report sound
 
 By the next submission I hope I have furthered my Jupyter and Python skills so that the report is of high quality and I can make the most of this subject. Though I have discussed my expectation that Python will be extremely useful in university and my career previously in this reflection journal, it is becoming more evident to me as I continue with the subject. This is mainly because I am seeing how it can be applied to other aspects of my degree, specifically with statistics, more and more. 
 
+## Week 10:
+
+### What have I learnt this week?
+
+I believe this week set off a deeper understanding of how some of these models work in practise. While prior I had understood that Agent Based Models centred on rules, agents and how the agents performed after the rules were iterated, this still did not translate into code in my mind as I had not had any prior experience with Python. From reading and modifying some Schelling segregation models, I now have a much more complex understanding of how AGM models work. While this is expanding my learning and can be beneficial, I believe I should still be wary of keeping many-model thinking in mind. That is, knowing many models at a base level rather than a small number in great detail, as ‘no models are correct but many models are useful’. 
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+
+I believe a specific challenge we encountered this week was segregating tasks between group members appropriately. As I am the only group member with access to our Jupyter Notebook, I foresee it being difficult when we will share codes to push each change to the repository in order to get timely feedback. I think this is a challenge unique to remote learning, as every group member setting up Jupyter to collaborate on the notebook would be difficult to achieve with assistance from teachers only being via online communication. To overcome this, we had agreed on clear and frequent communication between our group, so I am able to update the assignment repository as much as possible. Moreover, making effective and efficient use of our group time is vital. 
+
+A personal challenge I have encountered, as touched on before, is making sure I am not over-complicating the model to be beyond my ability. I think I run the risk of this when examining and modifying codes that are a bit beyond reach, and this may lead to convoluted outcomes that may not be useful when looking at our problem. To counter this, I anticipate I will rely on my group members and ask them if they understand my changes and to double-check my code. Hopefully, if we all agree to do this, we can avoid the risk group-wide.
+
+
 

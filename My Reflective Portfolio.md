@@ -127,5 +127,6 @@ I believe a specific challenge we encountered this week was segregating tasks be
 
 A personal challenge I have encountered, as touched on before, is making sure I am not over-complicating the model to be beyond my ability. I think I run the risk of this when examining and modifying codes that are a bit beyond reach, and this may lead to convoluted outcomes that may not be useful when looking at our problem. To counter this, I anticipate I will rely on my group members and ask them if they understand my changes and to double-check my code. Hopefully, if we all agree to do this, we can avoid the risk group-wide.
 
+hello
 
 

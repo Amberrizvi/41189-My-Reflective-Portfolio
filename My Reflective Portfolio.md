@@ -127,5 +127,22 @@ I believe a specific challenge we encountered this week was segregating tasks be
 
 A personal challenge I have encountered, as touched on before, is making sure I am not over-complicating the model to be beyond my ability. I think I run the risk of this when examining and modifying codes that are a bit beyond reach, and this may lead to convoluted outcomes that may not be useful when looking at our problem. To counter this, I anticipate I will rely on my group members and ask them if they understand my changes and to double-check my code. Hopefully, if we all agree to do this, we can avoid the risk group-wide.
 
+## Week 11:
+
+
+### What are (my/the) perceived strengths that I have observed?
+
+
+I believe a perceived strength of mine that I have observed is knowing when to ask for help while completing this assignment. While I understand this is more of a soft skill, it has been vital for success and understanding in this subject to learn from the knowledge of staff and team members. I anticipate this will be a useful skill to draw from later in my career, as the opposite, being never asking for the assistance of peers and mentors, could be detrimental.
+
+
+### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+This week’s challenge was modifying Agent-based model code into something viable and applicable to my group’s issue for the assignment. Finally, our group decided we needed to investigate other models that may not be able to replicate the exact same idea, but a similar circumstance in which the model can be more accurate, to overcome the issue. While we understood that models are abstractions of reality, the agent-based model we were investigating was complex to build and overlooked key parts of reality that rendered the model’s usefulness questionable. Upon reflection, I believe we chose the right decision to change this model and it improved the quality of our report. 
+
+
+### What would I do better next time and with what anticipated results?
+
+I believe if I were able to revisit this semester, I would have made a more active effort to fiddle with the code of a few models during the ‘supermarket of models’ part of the semester. This may have led to a better understanding of Python earlier on, and a grasp on scenario analysis and sensitivity, assisting me at this point in the semester when working on the assignment. This would have been crucial as I currently am struggling the most with coding the models and how to configure inputs. 
+
 
 
